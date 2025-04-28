@@ -1,0 +1,10 @@
+# ninja log v5
+34	1736	7671541559926359	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	411ae1a417d71c29
+20	1774	7671541560321002	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ad55dc96ab2ce612
+13	1801	7671541560511979	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1390d532565e97f6
+43	1821	7671541560708027	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8d82e5299bb64d8c
+6	1912	7671541561661073	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	37bc0a4522093a0a
+50	2193	7671541564436484	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	525ecaa53e5a423d
+26	2309	7671541565627486	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	56b04299b50c3ea4
+0	2472	7671541567248421	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1ba2082ea8fe292d
+2472	2658	7671541569195474	C:/Users/marcu/Documents/EEP590GProjects/DrunkDrivingSim/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6af5ub5x/obj/arm64-v8a/libgame.so	9e7236f892a3b815
