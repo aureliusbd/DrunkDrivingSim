@@ -142,3 +142,6 @@ PackageBackups/
 
 # UWP builds
 /UWP/*
+
+# Other temp files
+.utmp/
