@@ -49,6 +49,6 @@ public class BlurRendererFeature : ScriptableRendererFeature
 [Serializable]
 public class BlurSettings
 {
-    [Range(0, 0.3f)] public float horizontalBlur;
-    [Range(0, 0.3f)] public float verticalBlur;
+    [Range(0, 0.20f)] public float horizontalBlur;
+    [Range(0, 0.20f)] public float verticalBlur;
 }
